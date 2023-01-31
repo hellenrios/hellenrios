@@ -19,5 +19,5 @@
 
 • 🌎 I'm based in Rio de Janeiro, Brazil <br />
 • 🚀 I'm currently working on personal projects and improving my portfolio <br />
-• 🌐 You can check my <a href="https://www.linkedin.com/in/hellenrios/" target="blank">Linkedin</a> profile <br />
+• 🌐 You can check my <a href="https://www.linkedin.com/in/hellenrios/" target="_blank">Linkedin</a> profile <br />
 • ✉️ You can contact me at <a href="mailto:hellenrioss@gmail.com">hellenrioss@gmail.com</a>
