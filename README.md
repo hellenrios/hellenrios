@@ -15,4 +15,9 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
+##
 
+• 🌎 I'm based in Rio de Janeiro, Brazil <br />
+• 🚀 I'm currently working on personal projects and improving my portfolio <br />
+• 🌐 You can check my <a href="https://www.linkedin.com/in/hellenrios/">Linkedin</a> profile <br />
+• ✉️ You can contact me at <a href="mailto:hellenrioss@gmail.com">hellenrioss@gmail.com</a>
